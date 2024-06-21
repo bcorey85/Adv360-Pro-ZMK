@@ -80,10 +80,10 @@
 
         layer_symbols {
             bindings = <
- &trans  &trans           &trans     &trans          &trans         &trans            &trans                                                        &trans            &trans  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9         &trans             &trans
- &trans  &trans      &kp PERCENT   &kp PLUS        &kp PIPE  &kp LESS_THAN            &trans                                                        &trans  &kp GREATER_THAN  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6         &trans          &kp TILDE
- &trans  &trans  &kp EXCLAMATION  &kp MINUS  &kp UNDERSCORE  &kp BACKSLASH            &trans  &trans        &trans                  &trans  &trans  &trans      &kp NUMBER_0  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp SEMICOLON  &kp DOUBLE_QUOTES
- &trans  &trans        &kp CARET  &kp POUND      &kp DOLLAR   &kp ASTERISK                                  &trans                  &trans                            &trans        &trans        &trans        &trans   &kp QUESTION             &trans
+ &trans  &trans           &trans     &trans          &trans         &trans            &trans                                                        &trans            &trans        &trans        &trans        &trans         &trans             &trans
+ &trans  &trans      &kp PERCENT   &kp PLUS        &kp PIPE  &kp LESS_THAN            &trans                                                        &trans  &kp GREATER_THAN  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9         &trans          &kp TILDE
+ &trans  &trans  &kp EXCLAMATION  &kp MINUS  &kp UNDERSCORE  &kp BACKSLASH            &trans  &trans        &trans                  &trans  &trans  &trans      &kp NUMBER_0  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp SEMICOLON  &kp DOUBLE_QUOTES
+ &trans  &trans        &kp CARET  &kp POUND      &kp DOLLAR   &kp ASTERISK                                  &trans                  &trans                            &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3   &kp QUESTION             &trans
  &trans  &trans           &trans     &trans          &trans                           &trans  &trans  &kp LEFT_GUI                  &trans  &trans  &trans                          &trans        &trans        &trans         &trans             &trans
             >;
         };
