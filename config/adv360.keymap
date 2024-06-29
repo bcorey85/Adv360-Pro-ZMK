@@ -81,11 +81,11 @@
 
         layer_symbols {
             bindings = <
- &trans  &trans         &trans                &trans         &trans         &trans            &trans                                                        &trans     &trans            &trans                 &trans           &trans        &trans             &trans
- &trans  &trans    &kp PERCENT        &kp LEFT_BRACE  &kp LESS_THAN       &kp PIPE            &trans                                                        &trans   &kp PLUS  &kp GREATER_THAN        &kp RIGHT_BRACE           &trans        &trans          &kp TILDE
- &trans  &trans  &kp AMPERSAND  &kp LEFT_PARENTHESIS      &kp EQUAL  &kp BACKSLASH            &trans  &trans        &trans                  &trans  &trans  &trans  &kp MINUS    &kp UNDERSCORE  &kp RIGHT_PARENTHESIS  &kp EXCLAMATION     &kp COLON  &kp DOUBLE_QUOTES
- &trans  &trans      &kp CARET      &kp LEFT_BRACKET       &kp STAR         &trans                                  &trans                  &trans                     &trans        &kp DOLLAR       &kp LEFT_BRACKET           &trans  &kp QUESTION             &trans
- &trans  &trans         &trans                &trans         &trans                           &trans  &trans  &kp LEFT_GUI                  &trans  &trans  &trans                       &trans                 &trans           &trans        &trans             &trans
+ &trans  &trans         &trans                &trans         &trans    &trans            &trans                                                        &trans     &trans            &trans                 &trans           &trans        &trans             &trans
+ &trans  &trans     &kp DOLLAR        &kp LEFT_BRACE  &kp LESS_THAN    &kp AT            &trans                                                        &trans   &kp PLUS  &kp GREATER_THAN        &kp RIGHT_BRACE      &kp PERCENT        &trans          &kp TILDE
+ &trans  &trans  &kp AMPERSAND  &kp LEFT_PARENTHESIS      &kp EQUAL  &kp PIPE            &trans  &trans        &trans                  &trans  &trans  &trans  &kp MINUS    &kp UNDERSCORE  &kp RIGHT_PARENTHESIS  &kp EXCLAMATION     &kp COLON  &kp DOUBLE_QUOTES
+ &trans  &trans      &kp CARET      &kp LEFT_BRACKET       &kp STAR    &trans                                  &trans                  &trans                     &trans     &kp BACKSLASH       &kp LEFT_BRACKET           &trans  &kp QUESTION             &trans
+ &trans  &trans         &trans                &trans         &trans                      &trans  &trans  &kp LEFT_GUI                  &trans  &trans  &trans                       &trans                 &trans           &trans        &trans             &trans
             >;
         };
 
