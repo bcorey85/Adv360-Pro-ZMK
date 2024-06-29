@@ -41,11 +41,11 @@
 
         default_layer {
             bindings = <
-    &kp EQUAL  &kp EXCLAMATION  &kp LEFT_BRACKET  &kp LEFT_PARENTHESIS  &kp LEFT_BRACE  &kp AMPERSAND                &mo 1                                                                         &to 5  &kp EQUAL  &kp RIGHT_BRACE  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp PLUS   &kp MINUS
-       &kp AT            &kp Q             &kp W                 &kp E           &kp R          &kp T            &kp ENTER                                                                         &to 0      &kp Y            &kp U                  &kp I              &kp O     &kp P   &kp GRAVE
-      &kp TAB            &kp A             &kp S                 &kp D           &kp F          &kp G              &kp ESC       &kp LCTRL    &kp LALT                   &kp LGUI  &kp ENTER  &kp ESCAPE      &kp H            &kp J                  &kp K              &kp L  &kp SEMI     &kp SQT
- &kp CAPSLOCK            &kp Z             &kp X                 &kp C           &kp V          &kp B                                       &kp DELETE                  &kp PG_UP                             &kp N            &kp M              &kp COMMA            &kp DOT  &kp FSLH  &caps_word
-        &mo 2        &kp GRAVE         &kp SPACE              &kp LEFT       &kp RIGHT                            &kp BSPC  &sk LEFT_SHIFT       &mo 3                  &kp PG_DN      &sl 4   &kp SPACE                    &kp DOWN                 &kp UP           &kp LBKT  &kp RBKT       &mo 2
+    &kp EQUAL  &kp EXCLAMATION  &kp LEFT_BRACKET  &kp LEFT_PARENTHESIS  &kp LEFT_BRACE  &kp AMPERSAND                &mo 1                                                                          &to 5  &kp EQUAL  &kp RIGHT_BRACE  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp PLUS   &kp MINUS
+       &kp AT            &kp Q             &kp W                 &kp E           &kp R          &kp T            &kp ENTER                                                                          &to 0      &kp Y            &kp U                  &kp I              &kp O     &kp P   &kp GRAVE
+      &kp TAB            &kp A             &kp S                 &kp D           &kp F          &kp G              &kp ESC       &kp LCTRL    &kp LALT                   &kp LGUI  &kp ENTER   &kp ESCAPE      &kp H            &kp J                  &kp K              &kp L  &kp SEMI     &kp SQT
+ &kp CAPSLOCK            &kp Z             &kp X                 &kp C           &kp V          &kp B                                       &kp DELETE                  &kp PG_UP                              &kp N            &kp M              &kp COMMA            &kp DOT  &kp FSLH  &caps_word
+        &mo 2        &kp GRAVE         &kp SPACE              &kp LEFT       &kp RIGHT                            &kp BSPC  &sk LEFT_SHIFT       &mo 3                  &kp PG_DN      &sl 4  &lt 4 SPACE                    &kp DOWN                 &kp UP           &kp LBKT  &kp RBKT       &mo 2
             >;
         };
 
